@@ -1,7 +1,7 @@
 # WebSerialPixelMosaic
 I learned about WebSerial and I thought it'd be cool to do something with it that involved LEDs. I used a cheap 8x8 LED matrix (but theoretically, it could be any size). Uses USB CDC to communicate with a webapp (written in HTML, CSS, and Javascript). I'm not a web dev so if I did something bad in Javascript, I'm sorry :(  I just like trying out new cool things as I learn about them.
 
-NOTE: This may not work in some browsers (depending on security settings), but it worked fine in Chrome (Version 133.0.6943.142 (Official Build) 64-bit).
+NOTE: This may not work in some browsers (depending on security settings), but it worked fine in Chrome (Version 133.0.6943.142 (Official Build) 64-bit) and Microsoft Edge (Version 133.0.3065.82 (Official build) 64-bit).
 
 The LED matrix looks like this (I made and 3D printed an LED diffuser, but I'm working on modifying it to stop some of the light bleed):
 
